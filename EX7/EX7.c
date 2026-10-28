@@ -9,4 +9,4 @@ int main()
 	}
 	printf("Countdown complete.");
 	return 0;
-};
+}
